@@ -1,0 +1,19 @@
+{
+  "name": "yuzhan",
+  "version": "1.0.0",
+  "description": "yuzhan  project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinn2015/YuZhan.git"
+  },
+  "author": "tinnDou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinn2015/YuZhan/issues"
+  },
+  "homepage": "https://github.com/tinn2015/YuZhan#readme"
+}
