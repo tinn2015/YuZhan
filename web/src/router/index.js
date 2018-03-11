@@ -5,6 +5,7 @@ import Decoration from '@/views/decoration'
 import Design from '@/views/design'
 import Test from '@/views/test'
 import SubPage from '@/views/test/subPage'
+import JsTree from '@/views/jstree'
 
 Vue.use(Router)
 
@@ -39,6 +40,11 @@ export default new Router({
       path: '/subPage',
       name: 'SubPage',
       component: SubPage
+    },
+    {
+      path: '/jstree',
+      name: 'Jstree',
+      component: JsTree
     }
   ]
 })
